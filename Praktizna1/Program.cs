@@ -9,7 +9,7 @@ namespace StructConlsole
         public double Salary;
         public Company(string Name = "NONE", double Salary = 0, string Position = "NONE")
         {
-            this.Name = Name; // Назва компанiї;
+            this.Name = Name; // Назва компанiї; 
             this.Salary = Salary; // Посада працiвника;
             this.Position = Position; // Зарплата працiвника.
         }
